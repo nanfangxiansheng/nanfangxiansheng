@@ -42,16 +42,16 @@ Sunday                   29 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+硬件设计记录                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +71,5 @@ SystemVerilog            1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nanfangxiansheng/nanfangxiansheng/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 20:05:58 UTC
+ Last Updated on 16/05/2026 19:42:07 UTC
 <!--END_SECTION:waka-->
