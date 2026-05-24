@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nanfangxiansheng)](https://github.com/pranesh-2005/github-readme-stats-fast)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -42,16 +44,16 @@ Sunday                   29 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-硬件设计记录                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +73,5 @@ SystemVerilog            1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nanfangxiansheng/nanfangxiansheng/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 19:46:22 UTC
+ Last Updated on 24/05/2026 19:49:19 UTC
 <!--END_SECTION:waka-->
