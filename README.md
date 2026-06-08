@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nanfangxiansheng)](https://github.com/pranesh-2005/github-readme-stats-fast)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -71,5 +73,5 @@ SystemVerilog            1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nanfangxiansheng/nanfangxiansheng/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 19:57:38 UTC
+ Last Updated on 08/06/2026 20:42:21 UTC
 <!--END_SECTION:waka-->
